@@ -20,6 +20,9 @@
             },
             setValue: function(val) {
                 $this.val(val);
+            },
+            getEl: function () {
+                return $this;
             }
         };
     }
