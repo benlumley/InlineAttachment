@@ -1,3 +1,7 @@
+# This fork...
+
+This fork includes a couple of changes to allow inline placement of the image, rather than always appending. 
+
 # Inline Attachment 1.3.1 [![Master Branch Build Status](https://api.travis-ci.org/Rovak/InlineAttachment.png?branch=master)](http://travis-ci.org/Rovak/InlineAttachment) ![project status](http://stillmaintained.com/Rovak/InlineAttachment.png)
 
 Adds upload functionality to a textarea or CodeMirror instance by either drag-dropping or pasting (only in chrome) an image inside it.
